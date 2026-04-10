@@ -2,6 +2,39 @@
 Emission Reduction in Aluminium Recycling process by CMR Group
 
 The project activity is promoted by “CMR Green Technologies Limited”, this is a group of 4 aluminium metal recycling units located in two different districts in India. Prior the implementation of the project activity, the casting units procures aluminium ingots and re-melts it in in-house melting furnaces for subsequent use in die-casting of various automotive components/parts. Thus use of molten aluminium can reduce carbon emissions compared to solid ingots due to lower energy requirement.
+
+Being the Aluminium Recycling Project, there is no
+negative impact envisaged by the project activity. As per
+‘Central Pollution Control Board (Ministry of
+16
+Environment & Forests, Govt. of India, (07/03/2016)’, it
+has been declared that Aluminium Recycling process by
+CMR Group this project activity falls under the “Green
+category”. Green Category projects/industries do not
+require any Environmental Clearance such as ‘Consent to
+Operate’ from PCB as such project does not lead to any
+negative environmental impacts. Additionally, as per
+Indian Regulation, Environmental and Social Impact
+Assessment is not required for biomass-based Projects. 
+
+Country : India
+
+District : Manesar, Gurgaon, Bawal and Haridwar
+
+State : Haryana and Uttarakhand
+
+The location details of the four units are given below:
+
+Unit Ref Location Reference Location Details
+__________
+Unit 1 Haridwar (Uttarakhand) Haridwar Sidcul, Plot 3/P2, Sector 10, Haridwar. Latitude: 29° 56' 44.4876", Longitude: 78° 9' 51.2928"
+__________
+Unit 2 Gurugram (Haryana) 38/6, Miles Stone, Delhi-Jaipur highway, village- Narsinghpur, Dist. – Gurgaon, Haryana. Latitude: 28.3715° N, Longitude:
+76.9237° E
+___________
+Unit 3 Manesar (Haryana) 68F6+2CW, Tatarpur, Manesar, Haryana 121102. Latitude:28.22311° N, Longitude: 77.31163° E
+___________
+Unit 4 Bawal (Haryana) Plot No 65 Sector 15, Patuhera, Rewari, Bawal 123501. Latitude: 28.1034° N, Longitude: 76.6210° E
 ____
 Issue Date: 13/10/2023
 ___________
