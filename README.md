@@ -1,6 +1,18 @@
 # Project-315
 Emission Reduction in Aluminium Recycling process by CMR Group
 
+Project participants CMR Green Technologies Limited
+
+Host Party India
+
+Applied methodologies and standardized baselines AMS III BD – Version 01 GHG emission
+reduction due to supply of molten metal instead
+of ingots for Aluminium Castings.
+
+Standardized Methodology: Not Applicable.
+
+Sectoral scopes 04: Manufacturing industries
+
 The project activity is promoted by “CMR Green Technologies Limited”, this is a group of 4 aluminium metal recycling units located in two different districts in India. Prior the implementation of the project activity, the casting units procures aluminium ingots and re-melts it in in-house melting furnaces for subsequent use in die-casting of various automotive components/parts. Thus use of molten aluminium can reduce carbon emissions compared to solid ingots due to lower energy requirement.
 
 Being the Aluminium Recycling Project, there is no
@@ -16,6 +28,13 @@ Operate’ from PCB as such project does not lead to any
 negative environmental impacts. Additionally, as per
 Indian Regulation, Environmental and Social Impact
 Assessment is not required for biomass-based Projects. 
+
+The project activity is a manufacturer of Aluminium and Zinc based alloys. CMR
+Group has pride of being the biggest producer for these alloys in India. These are the aluminium metal recycling
+units located in two different districts in India, the PO has identified the plausible baseline scenario in accordance
+with applied simplified baseline and monitoring methodology AMS III BD – Version 01 GHG emission
+reduction due to supply of molten metal instead of ingots for Aluminium Castings
+
 
 Country : India
 
