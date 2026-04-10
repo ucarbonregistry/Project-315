@@ -39,3 +39,29 @@ Vintage 2013-2022
 
 ___________
 Total: 223,289 CoUs (223,289 tCO2eq)
+_____________
+
+ISSUANCE DATE: 10/04/2026
+
+QTY: 64491
+
+MP-02: 1/01/2023-30/11/2025
+____________
+Serial Number: 0002-223290-240419-UCR-CoU-IN-315-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 17130
+_____________
+Serial Number: 0002-240420-263447-UCR-CoU-IN-315-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 23028
+_______________
+Serial Number: 0002-263448-287780-UCR-CoU-IN-315-01012025-30112025
+
+Vintage Year: 2025
+
+Quantity: 24333
+___________
